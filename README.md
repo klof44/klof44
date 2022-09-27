@@ -1,9 +1,8 @@
 # Hi
 
-I'm a dude who plays videogames and codes in mostly c#.  
+I'm a dude who plays videogames and codes in mostly c# and a student working to get into computer science.  
 Don't be afraid to reach out for literally any reason.  
-I'm a student hoping to go into computer science.  
-You can reach my by adding me on discord at `klof44#6612` or emailing me at `klof4four@gmail.com`.  
+You can reach me by adding me on discord at `klof44#6612` or emailing me at `klof4four@gmail.com`.  
   
 ## Project(s)
 
