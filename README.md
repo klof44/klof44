@@ -13,6 +13,6 @@ The new way to play Duck Game with an immense ammount of changes that nobody wil
 
 ### Hat Database
 
-https://github.com/klof44/HatDatabase  
+https://github.com/klof44/Hat-Database  
 A centralized place for all Duck Game hats.  
 I work on it every now and again but it's nowhere near a release.  
