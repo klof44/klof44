@@ -2,7 +2,7 @@
 
 I'm a student who plays videogames and codes in mostly c#.  
 Don't be afraid to reach out for literally any reason.  
-You can reach me by adding me on discord at `klof44#6612` or emailing me at `klof4four@gmail.com`.  
+You can reach me by adding me on discord at `klof44` or emailing me at `klof4four@gmail.com`.  
   
 ### Duck Game Rebuilt
 
